@@ -1,5 +1,5 @@
 # CS50py
-### Repo with CS50py exercises
+### Repo with [CS50py](https://cs50.harvard.edu/python/2022/) exercises
 >- week_0 - Functions, Variables
 >- week_1 - Conditionals
 >- week_2 - Loops
